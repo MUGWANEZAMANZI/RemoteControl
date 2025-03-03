@@ -105,6 +105,3 @@ This project provides a set of bash scripts to remotely control and monitor a co
 
 The script keeps logs of all actions performed in `logs.log` and `hacked_logs.txt`.
 
----
-
-You can copy this content into a new `README.md` file in your repository. Let me know if you need any changes or additional information.
